@@ -1,4 +1,4 @@
-# AI Admin 🤖
+# Norm 🤖
 ## This repository was based on [DasiyBot](https://github.com/Teamef_norm/Daisy-OLD). You can use this repo to make your own bot.
 ## [![Untitled](https://telegra.ph/file/77ff087b97c72feec5a83.jpg)](https://t.me/aiadminslbot)
 
