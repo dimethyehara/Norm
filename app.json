@@ -1,5 +1,5 @@
 {
-      "name": "Max Robot",
+      "name": "Norm",
       "description": "An Anime themed Telegram group management bot.",
       "logo": "https://telegra.ph/file/18db78aca96c01c79b27b.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "ef_norm"
       ],   
-   "repository": "https://github.com/sltechworld/Max-Robot",
+   "repository": "https://github.com/Efficent-Bots/Norm",
    "addons": [
       {
          "options": {
