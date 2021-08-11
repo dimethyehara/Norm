@@ -1,10 +1,9 @@
 {
       "name": "Norm",
-      "description": "An Anime themed Telegram group management bot.",
+      "description": "An Advanced Telegram group management bot.",
       "logo": "https://telegra.ph/file/3284dfc150cc72ed40688.jpg",
       "keywords": [
          "telegram",
-         "anime",
          "group",
          "manager",
          "ef_norm"
