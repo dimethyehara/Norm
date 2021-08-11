@@ -3,7 +3,7 @@
 ## [![Untitled](https://telegra.ph/file/77ff087b97c72feec5a83.jpg)](https://t.me/aiadminslbot)
 
 # Make your Bot Here
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TinuraD/Group-Manager.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Efficent-Bots/Norm.git)
 
 
 ## Credits
