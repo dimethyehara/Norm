@@ -1,7 +1,7 @@
 # Norm 🤖
 ## Can Be found as @efnormbot
 # Deploy your own bot here.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TinuraD/Norm.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Efficent-Bots/Norm.git)
 
 
 ## Credits
