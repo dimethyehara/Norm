@@ -63,7 +63,7 @@ from ef_norm.modules.helper_funcs.misc import paginate_modules
 from ef_norm.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Group Manager
+Hello there, I'm Norm
 
 I am a Group Managing Bot and I will help in managing your group.
 
@@ -73,7 +73,7 @@ Make sure you read *INFO* Section Below
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ Add to your group ➕️", url="t.me/efmanagerbot?startgroup=true"),
+            text="➕️ Add to your group ➕️", url="t.me/efnormmbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="Information 📃", callback_data="aboutmanu_"),
@@ -357,7 +357,7 @@ def ef_norm_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"* Hi, I'm {dispatcher.bot.first_name}  \n\nAs  You I'm a next generational group management bot edited by Tinura Dinith.* "
+            text=f"* Hi, I'm {dispatcher.bot.first_name}  \n\nAs  You I'm a next generational group management bot created by Tinura Dinith.* "
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/18db78aca96c01c79b27b.jpg)"
             f"\n\n You Can Know More About Me By Clicking The Below Buttons ",
