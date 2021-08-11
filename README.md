@@ -1,7 +1,5 @@
 # Norm 🤖
-## This repository was based on [DasiyBot](https://github.com/Teamef_norm/Daisy-OLD). You can use this repo to make your own bot.
-## [![Untitled](https://telegra.ph/file/77ff087b97c72feec5a83.jpg)](https://t.me/aiadminslbot)
-
+## Can Be found as @efnormbot
 # Make your Bot Here
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Efficent-Bots/Norm.git)
 
