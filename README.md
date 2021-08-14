@@ -2,9 +2,10 @@
 
 
 <p align="center"><a href="https://t.me/efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430514-573d5706-d5c6-4f38-a67b-85e7a3039398.png" width="300"></a></p>
-#Norm 🤖
-##@efnormbot
-##Hello 👋 I' Norm a group management bot.
+
+# Norm 🤖
+## @efnormbot
+## Hello 👋 I' Norm a group management bot.
 
 
 ## Can Be found as @efnormbot
