@@ -3,9 +3,7 @@
 
 <p align="center"><a href="https://t.me/efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430514-573d5706-d5c6-4f38-a67b-85e7a3039398.png" width="300"></a></p>
 
-<h1 align="center"> Norm 🤖 </h1>
- <h6 align="center"> @efnormbot
-Hello 👋 I' Norm a group management bot. </h6>
+<h6 align="center"> @efnormbot - Hello 👋 I' Norm a group management bot. </h6>
  
 <p align="center"> <a href="tg://resolve?domain=efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430712-ea56286d-e8c7-457f-b267-b4b38704f955.png" width="200"></a></p>
 
