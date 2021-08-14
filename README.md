@@ -6,6 +6,9 @@
 
 ## Credits
 
+This bot besed on [TG Bot](https://github.com/PaulSonOfLars/tgbot) which made by [PaulSonOfLars](https://github.com/PaulSonOfLars). So oiginal credits go to [PaulSonOfLars](https://github.com/PaulSonOfLars) and his dedication.
+
+Other Credits
  - SaitamaRobot
  - MissJuliaRobot
  - SuzuyaProbot
@@ -17,9 +20,3 @@
  - Skylee
  - emilia
  - MaxRobot
-
-
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
-This repo was just revamped to suit an Anime-centric community and it was revamped as Ai Admin. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
-
-All other credits mentioned on top of scripts
