@@ -37,4 +37,4 @@ Other Credits
 Tinura Dinith  <a href="https://github.com/TinuraD" alt="TinuraD"> <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github" /></a>
 
 
-![https://t.me/efnormbot](https://user-images.githubusercontent.com/87059430/129430858-5bfa8e94-e06b-4ded-bc27-547a60f94701.png)
+![https://t.me/efnormbot](https://user-images.githubusercontent.com/87059430/129430858-5bfa8e94-e06b-4ded-bc27-547a60f94701.png)(https://t.me/efnormbot)
