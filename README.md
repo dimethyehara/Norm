@@ -23,6 +23,6 @@ Other Credits
 
 ## Contributors
 
-#### Tinura Dinith <img src="https://user-images.githubusercontent.com/87059430/129430005-56832b76-1900-47e4-ae5f-670e680b1bce.png" width="20px"> <a href="https://github.com/TinuraD" alt="TinuraD"> <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github" /></a>
+Tinura Dinith <img src="https://user-images.githubusercontent.com/87059430/129430005-56832b76-1900-47e4-ae5f-670e680b1bce.png" width="20px"> <a href="https://github.com/TinuraD" alt="TinuraD"> <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github" /></a>
 
 
