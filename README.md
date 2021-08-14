@@ -21,6 +21,6 @@ Other Credits
  - emilia
  - MaxRobot
 
-## Devs & Contributors
+## Contributors
 
-#### • Tinura Dinith    »»  <a href="https://github.com/tinurad" alt="Tinura Dinith"> <img src="https://img.shields.io/badge/tinurad-90302f?logo=github" /></a> (OWNER)
+#### • Tinura Dinith <a href="https://github.com/tinurad" alt="Tinura Dinith"> <img src="https://img.shields.io/badge/tinurad-90302f?logo=github" /></a> (OWNER)
