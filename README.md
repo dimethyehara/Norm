@@ -4,10 +4,10 @@
 <p align="center"><a href="https://t.me/efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430514-573d5706-d5c6-4f38-a67b-85e7a3039398.png" width="300"></a></p>
 
 # Norm 🤖
- <h6> @efnormbot </h6>
- Hello 👋 I' Norm a group management bot.
+ <h6 align="center"> @efnormbot
+Hello 👋 I' Norm a group management bot. </h6>
  
-<a href="tg://resolve?domain=efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430712-ea56286d-e8c7-457f-b267-b4b38704f955.png" width="200"></a>
+ <a href="tg://resolve?domain=efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430712-ea56286d-e8c7-457f-b267-b4b38704f955.png" width="200"></a>
 
 
 ## Can Be found as @efnormbot
@@ -34,7 +34,4 @@ Other Credits
 
 ## Contributors
 
-Tinura Dinith  <a href="https://github.com/TinuraD" alt="TinuraD"> <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github" /></a>
-
-
-[![norm](https://user-images.githubusercontent.com/87059430/129430858-5bfa8e94-e06b-4ded-bc27-547a60f94701.png)](tg://resolve?domain=efnormbot)
+Tinura Dinith  <a href="https://github.com/TinuraD" alt="TinuraD"> <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github" /></a
