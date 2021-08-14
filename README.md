@@ -7,8 +7,7 @@
  <h6> @efnormbot </h6>
  Hello 👋 I' Norm a group management bot.
  
-[![Send](https://user-images.githubusercontent.com/87059430/129430712-ea56286d-e8c7-457f-b267-b4b38704f955.png)](https://t.me/efnormbot)
-
+<a href="tg://resolve?domain=efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430712-ea56286d-e8c7-457f-b267-b4b38704f955.png" width="200"></a>
 
 
 ## Can Be found as @efnormbot
