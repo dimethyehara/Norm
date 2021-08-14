@@ -25,4 +25,4 @@ Other Credits
 
 #### • Tinura Dinith <a href="https://github.com/tinurad" alt="Tinura Dinith"> <img src="https://img.shields.io/badge/tinurad-90302f?logo=github" /></a>
 
-<a href="https://github.com/Tinurad"><img src="https://opencollective.com/efbots/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/TeamDaisyX/DaisyX/graphs/contributors"><img src="https://opencollective.com/teamdaisyxdaisy/contributors.svg?width=890&button=false" /></a>
