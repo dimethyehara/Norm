@@ -7,8 +7,6 @@
  
 <p align="center"> <a href="tg://resolve?domain=efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430712-ea56286d-e8c7-457f-b267-b4b38704f955.png" width="200"></a></p>
 
-
-## Can Be found as @efnormbot
 # Deploy your own bot here.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Efficent-Bots/Norm.git)
 
