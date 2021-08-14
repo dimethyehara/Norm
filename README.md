@@ -1,7 +1,7 @@
 # Norm 🤖
 
 
-<p align="center"><a href="https://t.me/efnormbot"><img src="https://cdn5.telesco.pe/file/vqdXg7mDf8Sh95yfORSEeZt-CcFOHnGB7Nx5i0MmQh01Y0XLq6zD9Ce-xNsCrvrKKgHfKykIJ15ruubfsGOrSaGvfGKIpiefhu0bkbresUhbxMRMYW8pPesOEHXQC0ZTeJa0lj_vQSv-xoTvPV1kYACaYUfcIzfglJzIOaqcemWBQAge3EmH8txtgQ8wJOkJbDtCOS2N2WSTLXn486NYJVFo24TloI_dd2F3N4uFRifn3bt_-CfGuaxIUVeeV_b9s1c075TlHdEb8Olcup2ZEVBozFXHeDYDa-ALSz1OEXzglgvopBAKUKV08XOoYEN--rlOL41dQ9hDJhpsbEE-0g.jpg" width="500"></a></p>
+<p align="center"><a href="https://t.me/efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430514-573d5706-d5c6-4f38-a67b-85e7a3039398.png" width="500"></a></p>
 
 ## Can Be found as @efnormbot
 # Deploy your own bot here.
@@ -28,5 +28,3 @@ Other Credits
 ## Contributors
 
 Tinura Dinith  <a href="https://github.com/TinuraD" alt="TinuraD"> <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github" /></a>
-
-
