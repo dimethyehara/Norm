@@ -5,7 +5,7 @@
 
 <h6 align="center"> @efnormbot - Hello 👋 I' Norm a group management bot. </h6>
  
-<p align="center"> <a href="tg://resolve?domain=efnormbot"><img src="https://user-images.githubusercontent.com/87059430/129430712-ea56286d-e8c7-457f-b267-b4b38704f955.png" width="200"></a></p>
+<p align="center"> <a href=https://t.me/efnormbot""><img src="https://user-images.githubusercontent.com/87059430/129430712-ea56286d-e8c7-457f-b267-b4b38704f955.png" width="200"></a></p>
 
 # Deploy your own bot here.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Efficent-Bots/Norm.git)
@@ -30,4 +30,4 @@ Other Credits
 
 ## Contributors
 
-Tinura Dinith  <a href="https://github.com/TinuraD" alt="TinuraD"> <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github" /></a
+Tinura Dinith  <a href="https://github.com/TinuraD" alt="TinuraD"> <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github"</a>
