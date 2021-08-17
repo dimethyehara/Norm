@@ -88,8 +88,8 @@ HELP_STRINGS = f"""
 • /help: Click this, I'll let you know about myself!
 • /donate: You can support my creater using this command.
 • /settings: 
-   ◔ in PM: will send you your settings for all supported modules.
-   ◔ in a Group: will redirect you to pm, with all that chat's settings.
+   • in PM: will send you your settings for all supported modules.
+   • in a Group: will redirect you to pm, with all that chat's settings.
 """.format(
     dispatcher.bot.first_name,
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
@@ -393,8 +393,8 @@ def ef_norm_about_callback(update, context):
     elif query.data == "aboutmanu_howto":
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
-            f"\nIf You Can Also Add {dispatcher.bot.first_name} To Your Chats By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true) And Selecting Chat. \n"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [SL_Tech_World](https://t.me/SL_Tech_Worldchat).\n"
+            f"\nIf First add {dispatcher.bot.first_name} To Your Group By Clicking [Here](http://t.me/{dispatcher.bot.username}?startgroup=true)or manually. \n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [SL Bot Zone](https://t.me/slbotzone).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
