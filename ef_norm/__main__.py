@@ -60,9 +60,8 @@ from ef_norm.modules import ALL_MODULES
 from ef_norm.modules.helper_funcs.alternate import typing_action
 from ef_norm.modules.helper_funcs.chat_status import is_user_admin
 from ef_norm.modules.helper_funcs.misc import paginate_modules
-from ef_norm.modules.helper_funcs.readable_time import get_readable_time
-from ef_norm.plugins import
-
+from ef_norm.modules.helper_funcs.readable_time import get_readable_tim
+from ef_norm.plugins import *
 
 PM_START_TEXT = """
 Hello there, I'm Norm
