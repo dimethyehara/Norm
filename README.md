@@ -30,5 +30,5 @@ Other Credits
 
 ## Contributors
 
-Tinura Dinith <img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github"><br/>
-Supun <img src="https://img.shields.io/badge/githubsupun-107D8D?logo=github"><br/>
+Tinura Dinith <a href="https://github.com/TinuraD"><img src="https://img.shields.io/badge/TinuraD-107D8D?logo=github"><br/>
+Supun <a href="https://github.com/githubsupun"><img src="https://img.shields.io/badge/githubsupun-107D8D?logo=github"><br/>
