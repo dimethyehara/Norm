@@ -72,13 +72,13 @@ Make sure you read *INFO* Section Below
 
 buttons = [
     [
-        InlineKeyboardButton(
-            text="➕️ Add to your group ➕️", url="t.me/efnormmbot?startgroup=true"),
-    ],
-    [
         InlineKeyboardButton(text="Information 📃", callback_data="aboutmanu_"),
         InlineKeyboardButton(text="Commands 📌", callback_data="help_back" ),
     ],
+    [
+        InlineKeyboardButton(
+            text="➕️ Add to your group ➕️", url="t.me/efnormmbot?startgroup=true"),
+    ]
 ]
 
 
