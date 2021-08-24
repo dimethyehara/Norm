@@ -74,7 +74,8 @@ COPY ./ef_norm/sample_config.py ./ef_norm/config.py* /root/ef_norm/ef_norm/
 ENV PATH="/home/bot/bin:$PATH"
 
 # Install requirements
-RUN pip3 install -U -r requirements.txt
+COPY requirements.txt /app/
+RUN pip install -r requirements.txt
 
 # Starting Worker
 CMD ["python3","-m","ef_norm"]
